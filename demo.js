@@ -14,7 +14,7 @@ var options = [].slice.call(document.querySelectorAll('.option'))
 var language = 'eng'
 var demoStarted = false
 var lang_demo_images = {
-	eng: 'img/eng_bw.png',
+	eng: 'img/f545c84d-8387-4a81-ab0b-70cd73df4664-Incident_report.jpg',
 	chi_sim: 'img/chi_sim.png',
 	rus: 'img/rus.png'
 }
